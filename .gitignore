@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Log files
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Sequelize CLI migrations (optional, only if you are not using migration files)
+sequelize-meta.json
+
+# Package-lock or yarn.lock (optional, if you want to prevent committing lock files)
+package-lock.json
+yarn.lock
+
+# IDE files (e.g., VSCode)
+.vscode/
+
+# npm debug log (generated on error)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
